@@ -35,7 +35,7 @@
       ],
       "ConstraintDescription": "must specify prod, dev, or test.",
       "Default": "test",
-      "Description": "Environment type.",
+      "Description": "Pushing as a new Code pipeline Instance",
       "Type": "String"
     }
   },
